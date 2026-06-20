@@ -1,0 +1,1 @@
+Automatic Konkani POS Tagger
